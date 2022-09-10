@@ -1,0 +1,44 @@
+.center {
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 10%;
+}
+
+.input {
+text-align: center;
+
+}
+
+.bigbox {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 2%;
+  margin-top: 2px;
+  margin-right: 2%;
+  font-size: 13px;
+}
+
+.box1 {
+  background-color:rgb(126,229,218);
+  text-align: center;
+  width: 33.3%;
+}
+
+.box2 {
+  background-color:rgb(112,204,194) ;
+  text-align: center;
+  width: 33.3%;
+}
+
+.box3{
+  background-color: #62b3aa;
+  text-align: center;
+  width: 33.3%;
+  
+}
+
+.footer{
+  font-size: small;
+  text-align: center;
+}
